@@ -26,7 +26,7 @@ it's a folder were you do all your work and see all history.
 
 **Link to your GitHub profile repository:** 
 
-https://github.com/LT-IntroToAI-SY2526/assignment-0-TheDude3man
+[https://github.com/LT-IntroToAI-SY2526/assignment-0-TheDude3man](https://github.com/Elis-code/elis-code)
 ---
 
 ## Looking Ahead
